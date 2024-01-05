@@ -4,7 +4,7 @@ title: "Linux für Entwickler 01: Navigation in der Kommandozeile"
 date:   2023-12-30 19:02
 modified_date: 2023-01-04 19:23
 author_ids: [kenneth-may-adesso]
-categories: [DevOps]
+categories: [Architektur]
 tags: [DevOps, Basics, Essentials, Linux]
 ---
 
@@ -248,6 +248,8 @@ Schlussendlich haben wir noch die Befehle `chmod` und `chown` kennengelernt und 
 Die Kenntnis und Anwendung dieser Befehle und Konzepte ermöglicht eine fein abgestimmte Kontrolle über Datei- und Verzeichnisberechtigungen in Linux.
 Dies ist besonders wichtig in Entwicklungsumgebungen, wo der Zugriff auf bestimmte Dateien und Verzeichnisse sorgfältig verwaltet werden muss.
 Mit der Praxis wird diese Komplexität handhabbar und ein mächtiges Werkzeug in den Händen eines erfahrenen Entwicklers.
+
+Für Fragen oder Anredungen könnt ihr mich unter kenneth.may@adesso.de erreichen.
 
 # Ausblick
 
